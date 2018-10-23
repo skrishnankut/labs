@@ -1,3 +1,6 @@
 [submodule "Submodules/FFmpegWrapper"]
 	path = Submodules/FFmpegWrapper
 	url = https://github.com/skrishnankut/labs.git
+[submodule "BC"]
+	path = BC
+	url = https://github.com/skrishnankut/labs.git
